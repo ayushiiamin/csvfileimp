@@ -1,0 +1,4 @@
+﻿Shape,Width,Height,x,y,Color
+Rectangle,200,100,0,0,green
+Ellipse,150,50,250,50,blue
+Circle,50,,250,50,red
