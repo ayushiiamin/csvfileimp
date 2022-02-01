@@ -1,0 +1,6 @@
+﻿Shape,Width,Height,Radius,rx,ry,x,y,cx,cy,x1,x2,y1,y2,Stroke,Color
+Rectangle,0,0,0,0,0,0,0,0,0,0,0,0,0,,green
+Circle,0,0,50,0,0,0,0,75,150,0,0,0,0,,yellow
+Ellipse,0,0,0,15,7,0,0,183,35,0,0,0,0,,black
+Ellipse,0,0,0,15,7,0,0,183,70,0,0,0,0,,black
+Line,0,0,0,0,0,0,0,0,0,0,0,0,0,yellow,
